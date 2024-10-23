@@ -1,6 +1,6 @@
 Clone Repository : git clone https://github.com/RobinRwt07/Todo_with_reduxJs
 
-Start server :  cd api 
+Start server :  cd api \n
                 npm install
                 npm run server
 
